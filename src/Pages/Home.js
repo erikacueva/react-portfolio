@@ -9,6 +9,9 @@ import {
   Button,
 } from "reactstrap";
 
+import frozenlake from './assets/photos/frozenlake.jpg';
+
+
 export default function Home() {
   return (
     <div>
@@ -16,7 +19,7 @@ export default function Home() {
         <CardImg
           top
           width="100%"
-          src="/react-portfolio/public/assets/photos/frozenlake.jpg"
+          src={frozenlake}
           alt="me standing on a frozen lake"
         />
         <CardBody>
