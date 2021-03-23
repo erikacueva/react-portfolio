@@ -9,7 +9,7 @@ import {
   Button,
 } from "reactstrap";
 
-import frozenlake from './assets/photos/frozenlake.jpg';
+import frozenlake from 'assets/photos/frozenlake.jpg';
 
 
 export default function Home() {
