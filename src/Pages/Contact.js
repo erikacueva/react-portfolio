@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Form, FormGroup } from 'reactstrap';
+import { Button, FormGroup } from 'reactstrap';
 
 export default function Contact() {
   return (

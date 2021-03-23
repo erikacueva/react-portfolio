@@ -34,16 +34,16 @@ export default function Nav () {
             <a href="portfolio.html" class="nav-link">Portfolio | Resume</a>
           </li> */}
          
-          <li class="nav-item">
+          <li className="nav-item">
           <Link to="/home">Home </Link>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
           <Link to="/about"> About </Link>
           </li>
-          <li class="nav-item" >
+          <li className="nav-item" >
           <Link to="/portfolio"> Portfolio </Link>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
           <Link to="/contact"> Contact </Link>
           </li>
         </ul>

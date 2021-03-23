@@ -77,3 +77,8 @@ footer {
   background-color: darkcyan;
   border-top: 5px solid #059DC0;
 }
+
+.nav-item {
+  padding-right: .5rem;
+padding-left: .5rem;
+}
