@@ -9,7 +9,7 @@ import {
   Button,
 } from "reactstrap";
 
-import frozenlake from 'assets/photos/frozenlake.jpg';
+import frozenlake from '../assets/photos/frozenlake2.jpg';
 
 
 export default function Home() {
@@ -18,15 +18,16 @@ export default function Home() {
       <Card>
         <CardImg
           top
-          width="100%"
+          width="10%"
           src={frozenlake}
           alt="me standing on a frozen lake"
         />
         <CardBody>
-          <CardTitle tag="h5">Hi, I'm Erika!</CardTitle>
-          <CardSubtitle tag="h6" className="mb-2 text-muted">
+        <CardSubtitle tag="h6" className="mb-2 text-muted">
             Here I am standing on a frozen lake in Ohio
           </CardSubtitle>
+          <CardTitle tag="h5">Hi, I'm Erika!</CardTitle>
+          
           <CardText>
             Thanks for checking out my portfolio! As you can tell, I am new to
             web development, but I am eager to learn as much as I can while
