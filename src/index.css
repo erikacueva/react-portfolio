@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  background-color: darkcyan;
+}
+
+body {
+  font-family: 'Slabo 27px', serif;
+}
+
+h4 {
+  font-family: 'Abril Fatface', cursive;
+}
+h5 {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.card-body {
+  background-color: white;
+}
+
+.contact {
+  background-color: white;
+}
+
+.index-row {
+  background-color: white;
+}
+
+.aboutmecontainer {
+  flex-wrap: wrap;
+}
+
+footer {
+  font-family: 'Abril Fatface', cursive;
+  background-color: darkcyan;
+  border-top: 5px solid #059DC0;
+}
