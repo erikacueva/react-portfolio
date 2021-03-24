@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e40e812.chunk.css",
+    "main.js": "/static/js/main.acfae8ea.chunk.js",
+    "main.js.map": "/static/js/main.acfae8ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1ea40afe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1ea40afe.js.map",
+    "static/css/2.fabbef47.chunk.css": "/static/css/2.fabbef47.chunk.css",
+    "static/js/2.ec5d5f99.chunk.js": "/static/js/2.ec5d5f99.chunk.js",
+    "static/js/2.ec5d5f99.chunk.js.map": "/static/js/2.ec5d5f99.chunk.js.map",
+    "static/js/3.e29f5157.chunk.js": "/static/js/3.e29f5157.chunk.js",
+    "static/js/3.e29f5157.chunk.js.map": "/static/js/3.e29f5157.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.2e40e812.chunk.css.map": "/static/css/main.2e40e812.chunk.css.map",
+    "static/js/2.ec5d5f99.chunk.js.LICENSE.txt": "/static/js/2.ec5d5f99.chunk.js.LICENSE.txt",
+    "static/media/frozenlake2.ea74c526.jpg": "/static/media/frozenlake2.ea74c526.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ea40afe.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.ec5d5f99.chunk.js",
+    "static/css/main.2e40e812.chunk.css",
+    "static/js/main.acfae8ea.chunk.js"
+  ]
+}
