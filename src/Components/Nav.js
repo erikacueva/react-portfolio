@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-
 // import Home from "./Pages/Home";
 // import About from "./Pages/About";
 // import Footer from "./Pages/Footer";
@@ -39,9 +38,9 @@ export default function Nav () {
           <li className="nav-item">
           <Link to="/home">Home </Link>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
           <Link to="/about"> About </Link>
-          </li>
+          </li> */}
           <li className="nav-item" >
           <Link to="/portfolio"> Portfolio </Link>
           </li>

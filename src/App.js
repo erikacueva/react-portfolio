@@ -2,11 +2,10 @@ import "./App.css";
 import { HashRouter as Router, Route, Switch, Link } from "react-router-dom";
 import Nav from "./Components/Nav";
 import Home from "./Pages/Home";
-import About from "./Pages/About";
+// import About from "./Pages/About";
 import Footer from "./Components/Footer";
 import Portfolio from "./Pages/Portfolio";
 import Contact from "./Pages/Contact";
-
 
 
 
@@ -26,7 +25,7 @@ function App() {
         </nav> */}
 
         <Switch>
-          <Route path="/about" component={About} />
+          {/* <Route path="/about" component={About} /> */}
           
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
